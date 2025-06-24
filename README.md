@@ -1,4 +1,5 @@
-# learn-cicd-starter (Notely)
+![alt text goes here](https://github.com/linuxunil/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+# learn-cicd-starter ()
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
