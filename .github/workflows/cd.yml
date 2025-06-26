@@ -33,4 +33,4 @@ jobs:
           version: '>= 363.0.0'
 
       - name: 'Use gcloud CLI'
-        run: 'gcloud builds submit --tag us-central1-docker.pkg.dev/notely-464002/notely-ar-repo/notely@sha256:225e36663f06c23f808166c40243d8e4480068ad3c9d6172a9b51db4e7a2ea9c .'
+        run: 'gcloud builds submit --tag us-central1-docker.pkg.dev/notely-464002/notely-ar-repo/notely .'
